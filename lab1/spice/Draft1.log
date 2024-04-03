@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Mi\Desktop\Study\3_course\2SHEM\spice\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 7.01e-009 to 7.01e-009
+
+Date: Mon Mar 04 15:02:42 2024
+Total elapsed time: 0.267 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16247
+traniter = 16241
+tranpoints = 8082
+accept = 8072
+rejected = 11
+matrix size = 24
+fillins = 0
+solver = Normal
+Matrix Compiler1: 2.16 KB object code size  0.3/0.2/[0.2]
+Matrix Compiler2: 2.62 KB object code size  0.2/0.2/[0.2]
+

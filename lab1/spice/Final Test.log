@@ -1,0 +1,46 @@
+Circuit: * C:\Users\Mi\Desktop\Study\3_course\2SHEM\spice\Final Test.asc
+
+WARNING: Node X1:NC_01 is floating.
+WARNING: Node X1:NC_02 is floating.
+WARNING: Node X1:NC_04 is floating.
+WARNING: Node X1:NC_05 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Mon Mar 18 19:54:56 2024
+Total elapsed time: 63.980 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 45038
+traniter = 44596
+tranpoints = 13335
+accept = 10346
+rejected = 2989
+matrix size = 4578
+fillins = 630
+solver = Normal
+Thread vector: 3094.2/1372.3[16] 349.2/192.2[12] 118.0/85.6[5] 33.5/14.8[16]  2592/500
+Matrix Compiler1: 747.30 KB object code size  228.0/79.9/[65.0]
+Matrix Compiler2:   41956 opcodes  118.9/[88.1]/97.5
+

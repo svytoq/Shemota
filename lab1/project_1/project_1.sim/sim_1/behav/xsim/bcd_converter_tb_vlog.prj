@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../../../../BCDCONVERTER/BCDCONVERTER.srcs/sources_1/new/bcd_converter.v" \
+"../../../../../../../../../BCDCONVERTER/BCDCONVERTER.srcs/sources_1/new/sum.v" \
+"../../../../../../../../../BCDCONVERTER/BCDCONVERTER.srcs/sim_1/new/bcd_converter_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
